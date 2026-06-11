@@ -88,7 +88,7 @@ export function fixFrontmatter(raw: string): { text: string; changed: boolean } 
 
 export function getTags(data: Record<string, unknown>): string[] {
   const tags = data.tags;
-  if (Array.isArray(tags)) return tags as string[];
+  if (Array.isArray(tags)) return tags.filter((t): t is string => typeof t === "string");
   if (typeof tags === "string") return [tags];
   return [];
 }

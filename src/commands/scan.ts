@@ -4,7 +4,7 @@ import { scanVault } from "../core/scanner.js";
 import { loadConfig } from "../core/config.js";
 import type { ScanResult, Issue } from "../types.js";
 
-const SEVERITY_COLOR: Record<string, chalk.Chalk> = {
+const SEVERITY_COLOR: Record<string, typeof chalk.red.bold> = {
   critical: chalk.red.bold,
   high: chalk.red,
   medium: chalk.yellow,
