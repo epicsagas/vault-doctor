@@ -1,6 +1,6 @@
 {
   "name": "vault-doctor",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Obsidian vault health diagnostics and auto-remediation CLI",
   "type": "module",
   "main": "./dist/cli.js",
@@ -38,7 +38,9 @@
   },
   "homepage": "https://github.com/epicsagas/vault-doctor#readme",
   "release": {
-    "branches": ["main"],
+    "branches": [
+      "main"
+    ],
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
