@@ -1,4 +1,4 @@
-# vault-doctor
+<h1 align="center">vault-doctor</h1>
 
 <p align="center">
   <a href="https://github.com/epicsagas/vault-doctor/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/epicsagas/vault-doctor/ci.yml?style=for-the-badge&labelColor=0d1117&color=58a6ff&logo=github&logoColor=white" /></a>
@@ -7,9 +7,11 @@
   <a href="https://github.com/epicsagas/vault-doctor/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/epicsagas/vault-doctor?style=for-the-badge&labelColor=0d1117&color=ffd700&logo=github&logoColor=white" /></a>
 </p>
 
-> Find and fix Obsidian vault problems before they break your notes
+<p align="center"><b>Find and fix Obsidian vault problems before they break your notes</b></p>
 
-`vault-doctor` scans your Obsidian vault for broken wikilinks, malformed frontmatter, missing tags, orphan files, and stale markers — then auto-fixes what it can.
+<p align="center">
+<code>vault-doctor</code> scans your Obsidian vault for broken wikilinks, malformed frontmatter, missing tags, orphan files, and stale markers — then auto-fixes what it can.
+</p>
 
 ## Quick Start
 
