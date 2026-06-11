@@ -1,7 +1,7 @@
-**[English](../../../README.md)** | [한국어](../../../README.md) | **日本語** | [简体中文](../zh-Hans/README.md) | [繁體中文](../zh-Hant/README.md) | [Español](../../../README.md) | [Português](../../../README.md) | [Français](../../../README.md) | [Deutsch](../../../README.md) | [Русский](../../../README.md) | [Italiano](../../../README.md)
+<p align="center"><a href="../../../README.md">English</a> · <a href="../ko/README.md">한국어</a> · <b>日本語</b> · <a href="../zh-Hans/README.md">简体中文</a> · <a href="../zh-Hant/README.md">繁體中文</a> · <a href="../es/README.md">Español</a> · <a href="../pt/README.md">Português</a> · <a href="../fr/README.md">Français</a> · <a href="../de/README.md">Deutsch</a> · <a href="../ru/README.md">Русский</a> · <a href="../it/README.md">Italiano</a></p>
 
-> これは[README.md](../../../README.md)の翻訳です。
-> 英語版が原文であり、より最新の情報が含まれている場合があります。
+<p align="center"><em>これは<a href="../../../README.md">README.md</a>の翻訳です。<br/>英語版が原文であり、より最新の情報が含まれている場合があります。</em></p>
+
 
 <h1 align="center">vault-doctor</h1>
 

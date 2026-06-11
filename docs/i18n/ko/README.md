@@ -1,7 +1,7 @@
-**[English](../../../README.md)** | **한국어** | [日本語](../../../README.md) | [简体中文](../zh-Hans/README.md) | [繁體中文](../zh-Hant/README.md) | [Español](../../../README.md) | [Português](../../../README.md) | [Français](../../../README.md) | [Deutsch](../../../README.md) | [Русский](../../../README.md) | [Italiano](../../../README.md)
+<p align="center"><a href="../../../README.md">English</a> · <b>한국어</b> · <a href="../ja/README.md">日本語</a> · <a href="../zh-Hans/README.md">简体中文</a> · <a href="../zh-Hant/README.md">繁體中文</a> · <a href="../es/README.md">Español</a> · <a href="../pt/README.md">Português</a> · <a href="../fr/README.md">Français</a> · <a href="../de/README.md">Deutsch</a> · <a href="../ru/README.md">Русский</a> · <a href="../it/README.md">Italiano</a></p>
 
-> 이 문서는 [README.md](../../../README.md)의 번역입니다.
-> 영어 버전이 원본이며 더 최신일 수 있습니다.
+<p align="center"><em>이 문서는 <a href="../../../README.md">README.md</a>의 번역입니다.<br/>영어 버전이 원본이며 더 최신일 수 있습니다.</em></p>
+
 
 <h1 align="center">vault-doctor</h1>
 

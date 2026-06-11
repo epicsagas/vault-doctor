@@ -1,7 +1,7 @@
-**[English](../../../README.md)** | [한국어](../../../README.md) | [日本語](../../../README.md) | [简体中文](../zh-Hans/README.md) | [繁體中文](../zh-Hant/README.md) | [Español](../../../README.md) | [Português](../../../README.md) | [Français](../../../README.md) | [Deutsch](../../../README.md) | **[Русский](../../../README.md)** | [Italiano](../../../README.md)
+<p align="center"><a href="../../../README.md">English</a> · <a href="../ko/README.md">한국어</a> · <a href="../ja/README.md">日本語</a> · <a href="../zh-Hans/README.md">简体中文</a> · <a href="../zh-Hant/README.md">繁體中文</a> · <a href="../es/README.md">Español</a> · <a href="../pt/README.md">Português</a> · <a href="../fr/README.md">Français</a> · <a href="../de/README.md">Deutsch</a> · <b>Русский</b> · <a href="../it/README.md">Italiano</a></p>
 
-> Это перевод [README.md](../../../README.md).
-> Английская версия является авторитетным источником и может быть более актуальной.
+<p align="center"><em>Это перевод <a href="../../../README.md">README.md</a>.<br/>Английская версия является авторитетным источником и может быть более актуальной.</em></p>
+
 
 <h1 align="center">vault-doctor</h1>
 
