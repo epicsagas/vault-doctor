@@ -37,11 +37,25 @@
     "url": "https://github.com/epicsagas/vault-doctor/issues"
   },
   "homepage": "https://github.com/epicsagas/vault-doctor#readme",
+  "release": {
+    "branches": ["main"],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/github",
+      "@semantic-release/git"
+    ]
+  },
   "engines": {
     "node": ">=18"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
     "@types/node": "^25.9.3",
+    "semantic-release": "^25.0.5",
     "tsup": "^8.5.1",
     "typescript": "^5.9.3",
     "vitest": "^3.2.6"
