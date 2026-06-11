@@ -1,0 +1,57 @@
+{
+  "name": "vault-doctor",
+  "version": "0.1.0",
+  "description": "Obsidian vault health diagnostics and auto-remediation CLI",
+  "type": "module",
+  "main": "./dist/cli.js",
+  "bin": {
+    "vault-doctor": "./dist/cli.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "lint": "tsc --noEmit",
+    "test": "vitest run",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "obsidian",
+    "vault",
+    "health",
+    "cli",
+    "zettelkasten",
+    "frontmatter",
+    "wikilinks"
+  ],
+  "author": "epicsagas",
+  "license": "Apache-2.0",
+  "funding": "https://buymeacoffee.com/epicsagas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epicsagas/vault-doctor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/epicsagas/vault-doctor/issues"
+  },
+  "homepage": "https://github.com/epicsagas/vault-doctor#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.6"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^13.1.0",
+    "fast-glob": "^3.3.3",
+    "gray-matter": "^4.0.3",
+    "ora": "^8.2.0",
+    "yaml": "^2.9.0"
+  }
+}
