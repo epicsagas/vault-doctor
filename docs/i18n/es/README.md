@@ -1,6 +1,6 @@
-**[English](../../README.md)** | [한국어](../ko/README.md) | [日本語](../ja/README.md) | [简体中文](../zh-Hans/README.md) | [繁體中文](../zh-Hant/README.md) | **[Español](../es/README.md)** | [Português](../pt/README.md) | [Français](../fr/README.md) | [Deutsch](../de/README.md) | [Русский](../ru/README.md) | [Italiano](../it/README.md)
+**[English](../../../README.md)** | [한국어](../../../README.md) | [日本語](../../../README.md) | [简体中文](../zh-Hans/README.md) | [繁體中文](../zh-Hant/README.md) | **[Español](../../../README.md)** | [Português](../../../README.md) | [Français](../../../README.md) | [Deutsch](../../../README.md) | [Русский](../../../README.md) | [Italiano](../../../README.md)
 
-> Esta es una traducción de [README.md](../../README.md).
+> Esta es una traducción de [README.md](../../../README.md).
 > La versión en inglés es la fuente autorizada y puede estar más actualizada.
 
 <h1 align="center">vault-doctor</h1>
